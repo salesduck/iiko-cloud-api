@@ -1,6 +1,6 @@
 {
   "name": "@salesduck/iiko-cloud-api",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "types": "index.d.ts",
   "description": "The library describes the available methods, request and response bodies, which allows you to make your own rest client based on it",
   "repository": "git@github.com:salesduck/iiko-cloud-api.git",
