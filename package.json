@@ -4,6 +4,9 @@
   "types": "index.d.ts",
   "description": "The library describes the available methods, request and response bodies, which allows you to make your own rest client based on it",
   "repository": "git@github.com:salesduck/iiko-cloud-api.git",
+  "scripts": {
+    "release": "standard-version"
+  },
   "author": "dyrkow <webworkdeveloper@gmail.com>",
   "license": "MIT",
   "private": false,
@@ -11,5 +14,8 @@
     "iiko",
     "cloud",
     "api"
-  ]
+  ],
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
